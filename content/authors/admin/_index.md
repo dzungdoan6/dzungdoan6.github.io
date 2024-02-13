@@ -36,7 +36,7 @@ education:
     - course: Ph.D. in Computer Science 
       institution: The University of Adelaide
       year: 2022
-    - course: B.Sc. (Honours) in Information Technology
+    - course: B.Sc. (Hons) in Information Technology
       institution: Vietnam National University - HCMC (University of Science) 
       year: 2009
 
