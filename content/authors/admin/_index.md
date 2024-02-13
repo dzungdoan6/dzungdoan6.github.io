@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Anh-Dzung (Dzung) Doan
+title: Anh-Dzung Doan
 
 # Full name (for SEO)
 first_name: Anh-Dzung
@@ -33,15 +33,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Ph.D. in Computer Science 
+      institution: The University of Adelaide
+      year: 2022
+    - course: B.Sc. (with Honours) in Information Technology
+      institution: Vietnam National University - HCMC (University of Science) 
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
