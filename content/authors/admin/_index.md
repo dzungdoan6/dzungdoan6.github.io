@@ -95,7 +95,7 @@ social:
     display:
       header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=Ch9rZ_kAAAAJ
   - icon: github
     icon_pack: fab
