@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Anh-Dzung (Dzung) Doan
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Anh-Dzung
+last_name: Doan
 
 # Status emoji
 status:
@@ -17,21 +14,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Australian Institute for Machine Learning
+    url: https://www.adelaide.edu.au/aiml/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests lie in the area of robotic vision, at the intersection of robotics, computer vision, and machine learning.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Machine Learning
+  - Robotics
 
 # Education to show in About widget
 education:
