@@ -85,6 +85,17 @@ sections:
   #         description: Taught electronic engineering and researched semiconductor physics.
   #   design:
   #     columns: '2'
+  - block: collection
+    id: publications
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publication
+        featured_only: false
+    design:
+      columns: '2'
+      view: Compact
   - block: Accomplishments
     id: awards
     content:
@@ -218,17 +229,7 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: false
-    design:
-      columns: '2'
-      view: Compact
+  
   # - block: collection
   #   content:
   #     title: Recent Publications
