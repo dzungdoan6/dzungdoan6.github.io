@@ -90,7 +90,8 @@ sections:
     content:
       title: Supervision
       subtitle:
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: Andrew Du (Ph.D.)
+      Tam Nguyen (Ph.D.)
     design:
       columns: '2'
   - block: portfolio
