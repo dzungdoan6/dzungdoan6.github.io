@@ -96,7 +96,7 @@ sections:
         Tam Nguyen (Ph.D.) - co-supervised with Prof. Tat-Jun Chin and Dr. Yasir Latif
         <br>
         <br>
-        Anh Vu Nguyen (Ph.D.) - Prof. Tat-Jun Chin
+        Anh Vu Nguyen (Ph.D.) - co-supervised with Prof. Tat-Jun Chin
     design:
       columns: '2'
   - block: portfolio
