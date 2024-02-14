@@ -92,9 +92,9 @@ sections:
       text: 
         Andrew Du (Ph.D.) - co-supervised with Prof. Tat-Jun Chin and Dr. Yee Wei Law
         <br>
-        Tam Nguyen (Ph.D.) - co-supervised with Prof. Tat-Jun Chin and Dr. Yasir Latif
+        &nbsp;&nbsp;Tam Nguyen (Ph.D.) - co-supervised with Prof. Tat-Jun Chin and Dr. Yasir Latif
         <br>
-        Anh Vu Nguyen (Ph.D.) - co-supervised with Dr. Jack Valmadre and Prof. Tat-Jun Chin
+        Anh Vu Nguyen (Ph.D.) - Prof. Tat-Jun Chin
     design:
       columns: '2'
   - block: portfolio
