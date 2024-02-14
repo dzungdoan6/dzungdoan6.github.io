@@ -135,11 +135,11 @@ sections:
           organization_url: https://www.coursera.org
           title: Neural Networks and Deep Learning
           url: ''
-        - certificate_url:
+        - certificate_url: https://www.coursera.org
           date_end: ''
           date_start: '2022'
           description: ''
-          icon: 
+          icon: coursera
           organization: IEEE Robotics and Automation Society
           organization_url: https://www.ieee-ras.org/
           title: IEEE RA-L Best Paper Award 2021
