@@ -90,9 +90,10 @@ sections:
     content:
       title: Supervision
       text: 
-        1. abc
+        - abc
         <br>
-        2. xyz
+        <br>
+        - xyz
     design:
       columns: '2'
   - block: portfolio
