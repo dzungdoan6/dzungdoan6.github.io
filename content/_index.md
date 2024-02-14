@@ -90,7 +90,7 @@ sections:
     content:
       title: Supervision
       subtitle:
-      text: Andrew Du (Ph.D.).\
+      text: Andrew Du (Ph.D.).<br/>
       Tam Nguyen (Ph.D.)
     design:
       columns: '2'
