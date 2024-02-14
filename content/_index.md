@@ -157,7 +157,7 @@ sections:
         - certificate_url: https://www.nasa.gov/centers-and-facilities/marshall/teams-develop-code-to-coordinate-robots-win-535000-in-space-robotics-challenge/
           date_end: ''
           date_start: '2021-09-27'
-          description: 'I led the team in charge of developing the localisation solution'
+          description: 'I led the team in developing the localisation solution'
           icon: nasa_logo
           organization: NASA
           organization_url: https://www.nasa.gov/
