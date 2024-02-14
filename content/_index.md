@@ -154,6 +154,15 @@ sections:
           organization_url: https://www.adelaide.edu.au/
           title: University of Adelaide International Wildcard Scholarship
           url: ''
+        - certificate_url: https://www.nasa.gov/centers-and-facilities/marshall/teams-develop-code-to-coordinate-robots-win-535000-in-space-robotics-challenge/
+          date_end: ''
+          date_start: '2021-09-27'
+          description: 'I led the team in charge of developing the localisation solution'
+          icon: nasa_logo
+          organization: NASA
+          organization_url: https://www.nasa.gov/
+          title: 3rd place & an Innovation award in NASA Space Robotics Challenge
+          url: ''
     design:
       columns: '2'
   - block: collection
