@@ -92,7 +92,9 @@ sections:
       text: 
         Andrew Du (Ph.D.) - co-supervised with Prof. Tat-Jun Chin and Dr. Yee Wei Law
         <br>
+        <br>
         Tam Nguyen (Ph.D.) - co-supervised with Prof. Tat-Jun Chin and Dr. Yasir Latif
+        <br>
         <br>
         Anh Vu Nguyen (Ph.D.) - Prof. Tat-Jun Chin
     design:
