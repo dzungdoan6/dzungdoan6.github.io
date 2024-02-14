@@ -105,8 +105,8 @@ sections:
           date_start: '2022-05-01'
           description: ''
           icon: ieee_ras_logo
-          organization: IEEE Robotics and Automation Society
-          organization_url: https://www.ieee-ras.org/
+          organization: IEEE Robotics and Automation Letters (RA-L)
+          organization_url: https://www.ieee-ras.org/publications/ra-l/ra-l-paper-awards
           title: IEEE RA-L Best Paper Award 2021
           url: ''
         - certificate_url: uploads/DICTA_best_paper.jpg
