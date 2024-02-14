@@ -126,15 +126,24 @@ sections:
       #     title: 'Object-Oriented Programming in R'
       #     url: ''
       items:
-        - certificate_url:
+        - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2022'
+          date_start: '2021-01-25'
           description: ''
-          icon: 
-          organization: IEEE Robotics and Automation Society
-          organization_url: https://www.ieee-ras.org/
-          title: 'IEEE RA-L Best Paper Award 2021'
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Neural Networks and Deep Learning
           url: ''
+        # - certificate_url:
+        #   date_end: ''
+        #   date_start: '2022'
+        #   description: ''
+        #   icon: 
+        #   organization: IEEE Robotics and Automation Society
+        #   organization_url: https://www.ieee-ras.org/
+        #   title: 'IEEE RA-L Best Paper Award 2021'
+        #   url: ''
     design:
       columns: '2'
   - block: collection
