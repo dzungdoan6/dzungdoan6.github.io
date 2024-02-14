@@ -136,6 +136,15 @@ sections:
           organization_url: https://www.ieee-ras.org/
           title: IEEE RA-L Best Paper Award 2021
           url: ''
+        - certificate_url: uploads/DICTA_best_paper.jpg
+          date_end: ''
+          date_start: '2019-12-01'
+          description: ''
+          icon: aprs_logo
+          organization: Australian Pattern Recognition Society
+          organization_url: http://aprs.dictaconference.org/
+          title: APRS/IAPR Best Paper Award in DICTA 2019
+          url: ''
     design:
       columns: '2'
   - block: collection
