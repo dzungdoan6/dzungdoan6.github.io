@@ -89,8 +89,9 @@ sections:
     id: supervision
     content:
       title: Supervision
-      text: blabla
-      text: bloblo
+      text: 
+        - bla bla
+        - blo blo
     design:
       columns: '2'
   - block: portfolio
