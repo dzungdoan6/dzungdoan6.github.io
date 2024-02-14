@@ -126,9 +126,15 @@ sections:
       #     title: 'Object-Oriented Programming in R'
       #     url: ''
       items:
-        - date_end: ''
+        - certificate_url:
+          date_end: ''
           date_start: '2022'
-          title: IEEE RA-L Best Paper Award 2021
+          description: ''
+          icon: 
+          organization: IEEE Robotics and Automation Society
+          organization_url: https://www.ieee-ras.org/
+          title: 'IEEE RA-L Best Paper Award 2021'
+          url: ''
     design:
       columns: '2'
   - block: collection
