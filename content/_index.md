@@ -89,9 +89,8 @@ sections:
     id: supervision
     content:
       title: Supervision
-      filters:
-        folders:
-          - supervision
+      text: blabla
+      text: bloblo
     design:
       columns: '2'
   - block: portfolio
