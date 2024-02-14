@@ -163,6 +163,24 @@ sections:
           organization_url: https://www.nasa.gov/
           title: 3rd place & an Innovation award in NASA Space Robotics Challenge
           url: ''
+        - certificate_url: uploads/1st_prize_undergrad.jpg
+          date_end: ''
+          date_start: '2013-09-20'
+          description: ''
+          icon: vnuhn_logo
+          organization: Vietnam National University
+          organization_url: https://vnu.edu.vn/eng/
+          title: 1st Prize - The Award for Excellent Research
+          url: ''
+        - certificate_url: uploads/excellent_research_undergrad.jpg
+          date_end: ''
+          date_start: '2013-08-20'
+          description: ''
+          icon: hcmus_logo
+          organization: University of Science
+          organization_url: https://en.hcmus.edu.vn/
+          title: Chancellor’s Award for Excellent Achievement in Scientific Research
+          url: ''
     design:
       columns: '2'
   - block: collection
