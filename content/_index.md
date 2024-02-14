@@ -102,21 +102,21 @@ sections:
       items:
         - certificate_url: uploads/RAL_best_paper.jpg
           date_end: ''
-          date_start: '2022-05-01'
+          date_start: '2021-05-01'
           description: ''
           icon: ieee_ras_logo
           organization: IEEE Robotics and Automation Letters (RA-L)
           organization_url: https://www.ieee-ras.org/publications/ra-l/ra-l-paper-awards
-          title: IEEE RA-L Best Paper Award 2021
+          title: Best Paper Award
           url: ''
         - certificate_url: uploads/DICTA_best_paper.jpg
           date_end: ''
           date_start: '2019-12-01'
           description: ''
           icon: aprs_logo
-          organization: Australian Pattern Recognition Society
-          organization_url: http://aprs.dictaconference.org/
-          title: APRS/IAPR Best Paper Award in DICTA 2019
+          organization: 'Digital Image Computing: Techniques and Applications (DICTA)'
+          organization_url: https://www.dictaconference.org/
+          title: Best Paper Award
           url: ''
         - certificate_url: uploads/ASI_Wildcard.pdf
           date_end: '2021-03-05'
