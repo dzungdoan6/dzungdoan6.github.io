@@ -142,7 +142,7 @@ sections:
           icon: 
           organization: IEEE Robotics and Automation Society
           organization_url: https://www.ieee-ras.org/
-          title: 'IEEE RA-L Best Paper Award 2021'
+          title: IEEE RA-L Best Paper Award 2021
           url: ''
     design:
       columns: '2'
