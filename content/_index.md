@@ -102,7 +102,7 @@ sections:
       items:
         - certificate_url: uploads/RAL_best_paper.jpg
           date_end: ''
-          date_start: '2021-01-01'
+          date_start: '2022-05-26'
           description: ''
           icon: ieee_ras_logo
           organization: IEEE Robotics and Automation Letters (RA-L)
