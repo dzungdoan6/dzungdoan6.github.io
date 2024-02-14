@@ -146,8 +146,8 @@ sections:
           title: APRS/IAPR Best Paper Award in DICTA 2019
           url: ''
         - certificate_url: uploads/ASI_Wildcard.pdf
-          date_end: '2021-03-5'
-          date_start: '2018-03-4'
+          date_end: '2021-03-05'
+          date_start: '2018-03-04'
           description: 'Full Ph.D. scholarship: 100% tuition fee, living allowance for 3 years, and other allowances (insurance, relocation allowance, thesis allowance, etc)'
           icon: uoa_logo
           organization: The University of Adelaide
