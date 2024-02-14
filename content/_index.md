@@ -129,7 +129,7 @@ sections:
       items:
         - certificate_url: uploads/RAL_best_paper.jpg
           date_end: ''
-          date_start: '2022-1-1'
+          date_start: '2022-00-00'
           description: ''
           icon: ieee_ras_logo
           organization: IEEE Robotics and Automation Society
