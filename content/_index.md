@@ -91,8 +91,8 @@ sections:
       title: 'Awards'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
-      # date_format: Jan 2006
-      date_format: 2006
+      date_format: Jan 2006
+      # date_format: 2006
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
@@ -138,7 +138,7 @@ sections:
           url: ''
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2022'
+          date_start: '2022-01-01'
           description: ''
           icon: coursera
           organization: IEEE Robotics and Automation Society
