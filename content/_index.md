@@ -91,7 +91,6 @@ sections:
       title: Supervision
       text: 
         - bla bla
-        - blo blo
     design:
       columns: '2'
   - block: portfolio
