@@ -131,7 +131,7 @@ sections:
           date_end: ''
           date_start: '2022-01-01'
           description: ''
-          icon: org-gc
+          icon: ieee_ras_logo
           organization: IEEE Robotics and Automation Society
           organization_url: https://www.ieee-ras.org/
           title: IEEE RA-L Best Paper Award 2021
