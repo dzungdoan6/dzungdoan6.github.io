@@ -89,9 +89,9 @@ sections:
     id: supervision
     content:
       title: Supervision
-      subtitle:
-      text: Andrew Du (Ph.D.).\
-      Tam Nguyen (Ph.D.)
+      filters:
+        folders:
+          - supervision
     design:
       columns: '2'
   - block: portfolio
