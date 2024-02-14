@@ -114,5 +114,6 @@ social:
 highlight_name: true
 ---
 
-Anh-Dzung (Dzung) Doan is a postdoctoral researcher at the [Sentient Satellites Lab](https://cs.adelaide.edu.au/~ssl/)
+Anh-Dzung (Dzung) Doan is a postdoctoral researcher at the [Sentient Satellites Lab](https://cs.adelaide.edu.au/~ssl/) of the [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/). He completed his Ph.D. in the School of Computer and Mathematical Sciences at the University of Adelaide, with the mentorship of Prof. [Tat-Jun Chin](https://scholar.google.com/citations?hl=en&user=WyqGF10AAAAJ), Dr. [Yasir Latif](https://scholar.google.com/citations?hl=en&user=pGsO6EkAAAAJ), and Prof. [Ian Reid](https://scholar.google.com/citations?user=ATkNLcQAAAAJ&hl=en). His research interests lie in the area of robotic vision, at the intersection of robotics, computer vision, and machine learning.
+
 {style="text-align: justify;"}
