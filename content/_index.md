@@ -89,7 +89,10 @@ sections:
     id: supervision
     content:
       title: Supervision
-      text: abc<br>xyz
+      text: 
+        abc
+        <br>
+        xyz
     design:
       columns: '2'
   - block: portfolio
