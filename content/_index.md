@@ -90,7 +90,8 @@ sections:
     content:
       title: Supervision
       text: 
-        bla bla
+        bla bla\
+        blo blo
     design:
       columns: '2'
   - block: portfolio
