@@ -195,9 +195,9 @@ sections:
   #     view: compact
   #     columns: '2'
   - block: portfolio
-    id: projects
+    id: research
     content:
-      title: Projects
+      title: Research
       filters:
         folders:
           - project
