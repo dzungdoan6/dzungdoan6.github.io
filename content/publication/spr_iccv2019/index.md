@@ -57,7 +57,7 @@ url_poster: ''
 url_project: ''
 url_slides: 'uploads/spr_iccv2019.pdf'
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/KUAVCV3Q0WA?si=ESkfNnF7VsSkI2XI'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
