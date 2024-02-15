@@ -265,15 +265,21 @@ sections:
       title: Supervision
       text: 
         <ul class="roman">
-          <li>First</li>
-          <li>Second
+          <li>Andrew Du (Ph.D.) - co-supervised with Prof. Tat-Jun Chin and Dr. Yee Wei Law
           <ul class="square">
-            <li>Sub of Second</li>
-            <li>Another Sub</li>
+            <li>Topic<span>:</span> Domain adaptation on the edge</li>
           </ul>
           </li>
-          <li>Third</li>
-          <li>Fourth</li>
+          <li>Tam Nguyen (Ph.D.) - co-supervised with Prof. Tat-Jun Chin and Dr. Yasir Latif
+          <ul class="square">
+            <li>Topic<span>:</span> Neuromorphic computing for robust fitting</li>
+          </ul>
+          </li>
+          <li>Anh Vu Nguyen (Ph.D.) - co-supervised with Prof. Tat-Jun Chin
+          <ul class="square">
+            <li>Topic<span>:</span> Active learning</li>
+          </ul>
+          </li>
         </ul>
     design:
       columns: '2'
