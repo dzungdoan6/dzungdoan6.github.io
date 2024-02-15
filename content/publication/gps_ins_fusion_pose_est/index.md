@@ -34,7 +34,7 @@ abstract: We tackle the INS/GPS sensor fusion problem for pose estimation, parti
 summary: 
     We propose an efficient outlier-robust algorithm to tackle INS and GPS sensor fusion problem for pose estimation.
     <br> 
-    <span style="font-size:1.1em">In _IROS 2019_. **(Spotlight)**</span>
+    <span style="font-size:1.1em">In _IROS 2019_</span>
 
 tags: 
 - Localisation
