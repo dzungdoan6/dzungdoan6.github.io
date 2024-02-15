@@ -13,7 +13,7 @@ authors:
 # Author notes (optional)
 author_notes:
 
-date: '2016-09-17T00:00:00Z'
+date: '2019-09-08T00:00:00Z'
 doi: 'https://doi.org/10.1109/IROS40897.2019.8967643'
 
 # Schedule page publish date (NOT publication's date).
