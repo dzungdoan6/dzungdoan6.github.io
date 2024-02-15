@@ -264,15 +264,17 @@ sections:
     content:
       title: Supervision
       text: 
-        Andrew Du (Ph.D.) - co-supervised with Prof. Tat-Jun Chin and Dr. Yee Wei Law
-        <br>
-        &emsp;&emsp; Topic<span>:</span> Domain adaptation on the edge
-        <br>
-        <br>
-        Tam Nguyen (Ph.D.) - co-supervised with Prof. Tat-Jun Chin and Dr. Yasir Latif
-        <br>
-        <br>
-        Anh Vu Nguyen (Ph.D.) - co-supervised with Prof. Tat-Jun Chin
+        <ul class="roman">
+          <li>First</li>
+          <li>Second
+          <ul class="square">
+            <li>Sub of Second</li>
+            <li>Another Sub</li>
+          </ul>
+          </li>
+          <li>Third</li>
+          <li>Fourth</li>
+        </ul>
     design:
       columns: '2'
   - block: contact
