@@ -36,8 +36,9 @@ summary:
     <span style="font-size:1.1em">In _ECCV 2016_</span>
 
 tags: 
-- Image hashing
-- Deep learning
+- Image Retrieval
+- Hashing
+- Deep Learning
 
 # Display this page in the Featured widget?
 featured: true

@@ -37,7 +37,8 @@ summary:
     <span style="font-size:1.1em">In _ECCV 2016_. **(Spotlight)**</span>
 
 tags: 
-- Image hashing
+- Image Retrieval
+- Hashing
 - Optimisation
 
 # Display this page in the Featured widget?
