@@ -49,7 +49,14 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/pdf/1607.05140.pdf'
-url_code: 'https://github.com/dzungdoan6/uh-bdnn'
+# url_code: 'https://github.com/dzungdoan6/uh-bdnn'
+# url_code: 'https://github.com/dzungdoan6/sh-bdnn'
+links:
+  - name: Code UH-BDNN
+  - url: https://github.com/dzungdoan6/uh-bdnn
+links:
+  - name: Code SH-BDNN
+  - url: https://github.com/dzungdoan6/sh-bdnn
 url_dataset: ''
 url_poster: ''
 url_project: ''
