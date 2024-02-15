@@ -266,7 +266,7 @@ sections:
       text: 
         Andrew Du (Ph.D.) - co-supervised with Prof. Tat-Jun Chin and Dr. Yee Wei Law
         <br>
-        &emsp;&emsp;&emsp;&emsp;Topic: Domain adaptation on the edge
+        &emsp;&emsp;&emsp;&emsp; Topic<span>:</span> Domain adaptation on the edge
         <br>
         Tam Nguyen (Ph.D.) - co-supervised with Prof. Tat-Jun Chin and Dr. Yasir Latif
         <br>
