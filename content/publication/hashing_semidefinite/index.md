@@ -34,7 +34,7 @@ abstract: This paper proposes two approaches for inferencing binary codes in two
 summary: 
     Unify two-step supervised and unsupervised image hashing into the Binary Quadratic Problem, then propose 2 solvers Semidefinite relaxation and Augmented Lagrangian
     <br> 
-    In _ECCV 2016_. **(Spotlight)**
+    <span style=font-size:1.3em">In _ECCV 2016_. **(Spotlight)**</span>
 
 tags: 
 - Image hashing
