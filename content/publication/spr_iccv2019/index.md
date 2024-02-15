@@ -35,6 +35,8 @@ abstract: A major challenge in place recognition for autonomous driving is to be
 # Summary. An optional shortened abstract.
 summary: 
     Highlight the need for continuous data collection in achieving a robust place recognition system. This drives our proposal for a scalable solution based on the Hidden Markov Model.
+    <br>
+    <span style="font-size:1.1em">In _ICCV 2019_</span>
 
 tags: 
 - Localisation
