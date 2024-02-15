@@ -85,20 +85,6 @@ sections:
   #         description: Taught electronic engineering and researched semiconductor physics.
   #   design:
   #     columns: '2'
-  - block: markdown
-    id: supervision
-    content:
-      title: Supervision
-      text: 
-        Andrew Du (Ph.D.) - co-supervised with Prof. Tat-Jun Chin and Dr. Yee Wei Law
-        <br>
-        <br>
-        Tam Nguyen (Ph.D.) - co-supervised with Prof. Tat-Jun Chin and Dr. Yasir Latif
-        <br>
-        <br>
-        Anh Vu Nguyen (Ph.D.) - co-supervised with Prof. Tat-Jun Chin
-    design:
-      columns: '2'
   - block: portfolio
     id: research
     content:
@@ -273,6 +259,20 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
+  - block: markdown
+    id: supervision
+    content:
+      title: Supervision
+      text: 
+        Andrew Du (Ph.D.) - co-supervised with Prof. Tat-Jun Chin and Dr. Yee Wei Law
+        <br>
+        <br>
+        Tam Nguyen (Ph.D.) - co-supervised with Prof. Tat-Jun Chin and Dr. Yasir Latif
+        <br>
+        <br>
+        Anh Vu Nguyen (Ph.D.) - co-supervised with Prof. Tat-Jun Chin
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
