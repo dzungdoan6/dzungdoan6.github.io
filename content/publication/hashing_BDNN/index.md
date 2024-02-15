@@ -1,5 +1,5 @@
 ---
-title: 'Binary Hashing with Semidefinite Relaxation and Augmented Lagrangian'
+title: 'Learning to Hash with Binary Deep Neural Network'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,17 +7,16 @@ title: 'Binary Hashing with Semidefinite Relaxation and Augmented Lagrangian'
 authors:
   - Thanh-Toan Do
   - admin
-  - Duc-Thanh Nguyen
   - Ngai-Man Cheung
 
 # Author notes (optional)
 author_notes:
 
-date: '2016-09-17T00:00:00Z'
-doi: 'https://doi.org/10.1007/978-3-319-46475-6_49'
+date: '2016-06-16T00:00:00Z'
+doi: 'https://doi.org/10.1007/978-3-319-46454-1_14'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2016-09-17T00:00:00Z'
+publishDate: '2016-06-16T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,17 +27,17 @@ publication_types: ['paper-conference']
 publication: In *European Conference on Computer Vision*
 publication_short: In *ECCV*
 
-abstract: This paper proposes two approaches for inferencing binary codes in two-step (supervised, unsupervised) hashing. We first introduce an unified formulation for both supervised and unsupervised hashing. Then, we cast the learning of one bit as a Binary Quadratic Problem (BQP). We propose two approaches to solve BQP. In the first approach, we relax BQP as a semidefinite programming problem which its global optimum can be achieved. We theoretically prove that the objective value of the binary solution achieved by this approach is well bounded. In the second approach, we propose an augmented Lagrangian based approach to solve BQP directly without relaxing the binary constraint. Experimental results on three benchmark datasets show that our proposed methods compare favorably with the state of the art.
+abstract: This work proposes deep network models and learning algorithms for unsupervised and supervised binary hashing. Our novel network design constrains one hidden layer to directly output the binary codes. This addresses a challenging issue in some previous works`:` optimizing non-smooth objective functions due to binarization. Moreover, we incorporate independence and balance properties in the direct and strict forms in the learning. Furthermore, we include similarity preserving property in our objective function. Our resulting optimization with these binary, independence, and balance constraints is difficult to solve. We propose to attack it with alternating optimization and careful relaxation. Experimental results on three benchmark datasets show that our proposed methods compare favorably with the state of the art.
 
 # Summary. An optional shortened abstract.
 summary: 
-    Unify two-step supervised and unsupervised image hashing into the Binary Quadratic Problem, then propose 2 solvers Semidefinite relaxation and Augmented Lagrangian
+    Explore the deep neural network for binary hashing. Propose a solution for optimising neural network (backpropagation) with a binary constraint
     <br> 
-    <span style="font-size:1.1em">In _ECCV 2016_. **(Spotlight)**</span>
+    <span style="font-size:1.1em">In _ECCV 2016_</span>
 
 tags: 
 - Image hashing
-- Optimisation
+- Deep learning
 
 # Display this page in the Featured widget?
 featured: true
@@ -48,8 +47,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/1607.05396.pdf'
-url_code: ''
+url_pdf: 'https://arxiv.org/pdf/1607.05140.pdf'
+url_code: 'https://github.com/dzungdoan6/uh-bdnn'
 url_dataset: ''
 url_poster: ''
 url_project: ''
