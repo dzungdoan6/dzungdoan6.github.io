@@ -268,9 +268,9 @@ sections:
         I co-supervise following Ph.D. students
         <br>
         <ul class="roman">
-          <li>Andrew Du (Ph.D.) - Topic<span>:</span> Domain adaptation on the edge</li>
-          <li>Tam Nguyen (Ph.D.) - Topic<span>:</span> Neuromorphic computing for robust fitting</li>
-          <li>Anh Vu Nguyen (Ph.D.) - Topic<span>:</span> Active learning for streaming data</li>
+          <li>Andrew Du - Topic<span>:</span> Domain adaptation on the edge</li>
+          <li>Tam Nguyen - Topic<span>:</span> Neuromorphic computing for robust fitting</li>
+          <li>Anh Vu Nguyen - Topic<span>:</span> Active learning for streaming data</li>
         </ul>
     design:
       columns: '2'
