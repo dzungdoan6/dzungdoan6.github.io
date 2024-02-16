@@ -36,7 +36,7 @@ abstract: To ensure reliable object detection in autonomous systems, the detecto
 summary: 
     We address the question "when to adapt" if the object detector is required to be continously updated.
     <br>
-    <span style="font-size:1.1em">_Computer Vision and Image Understanding_</span>. 
+    <span style="font-size:1.1em">_Computer Vision and Image Understanding 2024_</span>. 
 
 tags: 
 - Continual Domain Adaptation
