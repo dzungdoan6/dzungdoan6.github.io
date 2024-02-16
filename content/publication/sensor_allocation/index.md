@@ -38,7 +38,7 @@ abstract: Countries with access to large bodies of water often aim to protect th
 summary: 
     We develop a planning algorithm that employs multiple sensors to observe multiple targets, minimising the time needed for maritime situational awareness.
     <br>
-    <span style="font-size:1.1em">_IEEE Transactions on Intelligent Transportation Systems 2024_</span>. 
+    <span style="font-size:1.1em">_IEEE Transactions on Intelligent Transportation Systems 2024_ (Accepted)</span>. 
 
 tags: 
 - Planning
