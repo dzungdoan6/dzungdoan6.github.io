@@ -37,7 +37,7 @@ abstract: We present the design of an entire on-device system for large-scale ur
 summary: 
     Develop an on-device system for large-scale visual localisation
     <br>
-    <span style="font-size:1.1em">In _CVPR 2022_</span>.
+    <span style="font-size:1.1em">_IEEE Transactions on Image Processing 2018_</span>.
 
 tags: 
 - Localisation
