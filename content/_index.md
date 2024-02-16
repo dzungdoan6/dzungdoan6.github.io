@@ -124,6 +124,18 @@ sections:
     design:
       columns: '2'
       view: Compact
+  - block: markdown
+    id: patent
+    content:
+      title: Patent
+      text: 
+        [Repeatability predictions of interest points](https://patentscope.wipo.int/search/en/detail.jsf?docId=US377615335)
+        <br>
+        Anh-Dzung Doan, Daniyar Turmukhambetov, Soohyun Bae
+        <br>
+        US Patent Application Number 17730555
+    design:
+      columns: '2'
   - block: Accomplishments
     id: awards
     content:
