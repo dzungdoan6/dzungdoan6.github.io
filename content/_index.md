@@ -129,9 +129,9 @@ sections:
     content:
       title: Patent
       text: 
-        Repeatability predictions of interest points
+        <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=US377615335">Repeatability predictions of interest points</a>
         <br>
-        Anh-Dzung Doan, Daniyar Turmukhambetov, Soohyun Bae
+        Dung Anh Doan, Daniyar Turmukhambetov, Soohyun Bae
         <br>
         US Patent Application Number 17730555
     design:
