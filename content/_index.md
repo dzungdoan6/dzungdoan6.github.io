@@ -279,7 +279,9 @@ sections:
     content:
       title: Services
       text: 
-        Member of Technical Program Committee
+        Conference reviewer<span>:</span> ICRA, IROS, RSS, CVPR, ICCV, ECCV, ACCV, ACML, AAAI, DICTA.
+        <br>
+        Journal reviewer<span>:</span> RA-L, IJRR, TMM, NCAA, APSIPA, TETCI.  
     design:
       columns: '2'
   - block: contact
