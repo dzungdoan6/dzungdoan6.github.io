@@ -116,7 +116,7 @@ sections:
     id: publications
     content:
       title: Publications
-      text: For a full list of my publications, please refer to my (Google Scholar)[https://scholar.google.com/citations?user=Ch9rZ_kAAAAJ]
+      text: For a full list of my publications, please refer to my [Google Scholar](https://scholar.google.com/citations?user=Ch9rZ_kAAAAJ)
       filters:
         folders:
           - publication
