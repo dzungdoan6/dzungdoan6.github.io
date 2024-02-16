@@ -280,10 +280,6 @@ sections:
         title: Services
         text: 
           Member of Technical Program Committee
-          <br>
-          <ul class="roman">
-            <li>ABC</li>
-          </ul>
   - block: contact
     id: contact
     content:
