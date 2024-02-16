@@ -277,7 +277,7 @@ sections:
           </li>
           <li>Anh Vu Nguyen (Ph.D.) - co-supervised with Prof. Tat-Jun Chin
           <ul class="square">
-            <li>Topic<span>:</span> Active learning</li>
+            <li>Topic<span>:</span> Active learning for streaming data</li>
           </ul>
           </li>
         </ul>
