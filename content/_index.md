@@ -263,24 +263,12 @@ sections:
   - block: markdown
     id: supervision
     content:
-      title: Supervision
+      title: I co-supervise three Ph.D. students
       text: 
         <ul class="roman">
-          <li>Andrew Du (Ph.D.) - co-supervised with Prof. Tat-Jun Chin and Dr. Yee Wei Law
-          <ul class="square">
-            <li>Topic<span>:</span> Domain adaptation on the edge</li>
-          </ul>
-          </li>
-          <li>Tam Nguyen (Ph.D.) - co-supervised with Prof. Tat-Jun Chin and Dr. Yasir Latif
-          <ul class="square">
-            <li>Topic<span>:</span> Neuromorphic computing for robust fitting</li>
-          </ul>
-          </li>
-          <li>Anh Vu Nguyen (Ph.D.) - co-supervised with Prof. Tat-Jun Chin
-          <ul class="square">
-            <li>Topic<span>:</span> Active learning for streaming data</li>
-          </ul>
-          </li>
+          <li>Andrew Du (Ph.D.) - Topic<span>:</span> Domain adaptation on the edge</li>
+          <li>Tam Nguyen (Ph.D.) - Topic<span>:</span> Neuromorphic computing for robust fitting</li>
+          <li>Anh Vu Nguyen (Ph.D.) - Topic<span>:</span> Active learning for streaming data</li>
         </ul>
     design:
       columns: '2'
