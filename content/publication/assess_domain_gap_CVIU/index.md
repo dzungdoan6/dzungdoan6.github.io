@@ -1,5 +1,5 @@
 ---
-title: 'Assessing domain gap for continual domain adaptation in object detection'
+title: 'Assessing Domain Gap for Continual Domain Adaptation in Object Detection'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
