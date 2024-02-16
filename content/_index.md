@@ -274,12 +274,12 @@ sections:
         </ul>
     design:
       columns: '2'
-    - block: markdown
-      id: services
-      content:
-        title: Services
-        text: 
-          Member of Technical Program Committee
+  - block: markdown
+    id: services
+    content:
+      title: Services
+      text: 
+        Member of Technical Program Committee
   - block: contact
     id: contact
     content:
