@@ -282,7 +282,7 @@ sections:
           Member of Technical Program Committee
           <br>
           <ul class="roman">
-          <li>[RSS 2023 Workshop on Towards Safe Autonomy<span>:</span> New Challenges and Trends in Robot Perception](https://sites.google.com/view/rss2023-safe-autonomy)</li>
+            <li>ABC</li>
           </ul>
   - block: contact
     id: contact
