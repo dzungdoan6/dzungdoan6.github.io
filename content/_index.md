@@ -116,6 +116,7 @@ sections:
     id: publications
     content:
       title: Publications
+      text: blablabla
       filters:
         folders:
           - publication
