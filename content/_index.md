@@ -129,7 +129,7 @@ sections:
     content:
       title: Patent
       text: 
-        [Repeatability predictions of interest points](https://patentscope.wipo.int/search/en/detail.jsf?docId=US377615335)
+        Repeatability predictions of interest points
         <br>
         Anh-Dzung Doan, Daniyar Turmukhambetov, Soohyun Bae
         <br>
