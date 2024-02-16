@@ -14,11 +14,11 @@ authors:
 # Author notes (optional)
 author_notes:
 
-date: '2021-06-05T00:00:00Z'
+date: '2021-01-01T00:00:00Z'
 doi: 'https://doi.org/10.1109/ICRA48506.2021.9561383'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-06-05T00:00:00Z'
+publishDate: '2021-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
