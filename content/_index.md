@@ -263,8 +263,10 @@ sections:
   - block: markdown
     id: supervision
     content:
-      title: I co-supervise three Ph.D. students
+      title: Supervision
       text: 
+        I co-supervise following Ph.D. students
+        <br>
         <ul class="roman">
           <li>Andrew Du (Ph.D.) - Topic<span>:</span> Domain adaptation on the edge</li>
           <li>Tam Nguyen (Ph.D.) - Topic<span>:</span> Neuromorphic computing for robust fitting</li>
