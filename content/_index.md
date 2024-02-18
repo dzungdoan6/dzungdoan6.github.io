@@ -274,7 +274,7 @@ sections:
   - block: markdown
     id: supervision
     content:
-      title: Supervision
+      title: Mentorship
       text: 
         I co-supervise following Ph.D. students
         <br>
