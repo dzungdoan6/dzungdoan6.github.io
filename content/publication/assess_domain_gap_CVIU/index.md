@@ -34,7 +34,7 @@ abstract: To ensure reliable object detection in autonomous systems, the detecto
 
 # Summary. An optional shortened abstract.
 summary: 
-    We address the question "when to adapt" if the object detector is required to be continously updated.
+    We address the question "when to adapt" if the object detector is required to be continually updated.
     <br>
     <span style="font-size:1.1em">_Computer Vision and Image Understanding 2024_</span>. 
 
