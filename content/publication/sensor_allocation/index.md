@@ -17,11 +17,11 @@ authors:
 # Author notes (optional)
 author_notes:
 
-date: '2024-01-20T00:00:00Z'
-doi: ''
+date: '2024-02-22T00:00:00Z'
+doi: 'https://doi.org/10.1109/TITS.2024.3363716'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-01-20T00:00:00Z'
+publishDate: '2024-02-22T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -38,10 +38,10 @@ abstract: Countries with access to large bodies of water often aim to protect th
 summary: 
     We develop a planning algorithm that employs multiple sensors to observe multiple targets, minimising the time needed for maritime situational awareness.
     <br>
-    <span style="font-size:1.1em">_IEEE Transactions on Intelligent Transportation Systems 2024_ (Accepted)</span>. 
+    <span style="font-size:1.1em">_IEEE Transactions on Intelligent Transportation Systems 2024_</span>. 
 
 tags: 
-- Planning
+- Path Planning
 - Optimisation
 
 # Display this page in the Featured widget?
