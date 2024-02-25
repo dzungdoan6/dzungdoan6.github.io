@@ -38,7 +38,7 @@ education:
       year: 2022
     - course: B.Sc. (Hons) in Information Technology
       institution: Vietnam National University - HCMC (University of Science) 
-      year: 2009
+      year: 2013
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
