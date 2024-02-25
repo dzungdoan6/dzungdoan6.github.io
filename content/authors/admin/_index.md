@@ -88,21 +88,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:dzung.doan@adelaide.edu.au'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/DzungDoan6
-    label: Follow me on Twitter
-    display:
-      header: true
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/DzungDoan6
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=Ch9rZ_kAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/dzungdoan6
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/dzunganhdoan/
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/in/dzunganhdoan/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
