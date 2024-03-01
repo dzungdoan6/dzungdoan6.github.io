@@ -109,8 +109,6 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/cv_full.pdf
-  - icon: resume
-    link: uploads/cv_full.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -122,4 +120,5 @@ He has a strong publication record, with 10+ papers in major AI conferences and 
 
 He has held research positions and collaborated with several organisations, including [Safran](https://www.safran-group.com/), [Niantic](https://nianticlabs.com/), the [Australian Centre for Robotic Vision](https://roboticvision.org/), [Temasek Labs@SUTD](https://temasek-labs.sutd.edu.sg/), the [Japan Advanced Institute of Science and Technology](http://www.jaist.ac.jp/english/), and [FIT@HCMUS](https://www.fit.hcmus.edu.vn/en/).
 
+Here is my [one-page resume](uploads/resume.pdf)
 {style="text-align: justify;"}
