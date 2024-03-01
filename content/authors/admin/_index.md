@@ -111,6 +111,7 @@ social:
     link: uploads/cv_full.pdf
 
   - icon: resume
+    icon_pack: custom
     link: uploads/cv_full.pdf
 
 # Highlight the author in author lists? (true/false)
