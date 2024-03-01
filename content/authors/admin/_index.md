@@ -110,6 +110,9 @@ social:
     icon_pack: ai
     link: uploads/cv_full.pdf
 
+  - icon: resume
+    link: uploads/cv_full.pdf
+
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
