@@ -87,7 +87,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:anhdungnt91@gmail.com'
+    link: 'mailto:dzungdoan6@gmail.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/DzungDoan6
