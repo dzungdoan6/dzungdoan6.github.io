@@ -180,7 +180,7 @@ sections:
         - certificate_url: https://www.nasa.gov/centers-and-facilities/marshall/teams-develop-code-to-coordinate-robots-win-535000-in-space-robotics-challenge/
           date_end: ''
           date_start: '2021-09-27'
-          description: 'Lead the development of localisation method for rover navigation'
+          description: 'Lead the development of a localization method for rover navigation.'
           icon: nasa_logo
           organization: NASA
           organization_url: https://www.nasa.gov/
