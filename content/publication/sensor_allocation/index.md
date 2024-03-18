@@ -53,7 +53,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/pdf/2307.02790.pdf'
-url_code: ''
+url_code: 'https://github.com/Long-UoA/Sensor-Allocation-and-Online-Learning-based-Path-Planning-Approach'
 url_dataset: ''
 url_poster: ''
 url_project: ''
