@@ -293,7 +293,7 @@ sections:
       text: 
         Conference reviewer<span>:</span> [ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra), [IROS](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros), [CVPR](https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition), [ICCV](https://en.wikipedia.org/wiki/International_Conference_on_Computer_Vision), [ECCV](https://en.wikipedia.org/wiki/European_Conference_on_Computer_Vision), [ACCV](https://link.springer.com/conference/accv), [ACML](http://www.wikicfp.com/cfp/program?id=40), [AAAI](https://aaai.org/conference/aaai/), [DICTA](http://www.wikicfp.com/cfp/program?id=710).
         <br>
-        Journal reviewer<span>:</span> [RA-L](https://www.ieee-ras.org/publications/ra-l), [IJRR](https://journals.sagepub.com/home/ijr), [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), [NCAA](https://link.springer.com/journal/521), [APSIPA](https://www.nowpublishers.com/SIP), [TETCI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297).  
+        Journal reviewer<span>:</span> [RA-L](https://www.ieee-ras.org/publications/ra-l), [IJRR](https://journals.sagepub.com/home/ijr), [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), [TAI](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence), [NCAA](https://link.springer.com/journal/521), [APSIPA](https://www.nowpublishers.com/SIP), [TETCI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297).  
     design:
       columns: '2'
   - block: contact
