@@ -202,7 +202,7 @@ sections:
           icon: hcmus_logo
           organization: University of Science
           organization_url: https://en.hcmus.edu.vn/
-          title: Chancellor’s Award for Excellent Achievement in Research
+          title: The Chancellor's Research Excellence Award
           url: ''
     design:
       columns: '2'
