@@ -193,7 +193,7 @@ sections:
           icon: vnuhn_logo
           organization: Vietnam National University
           organization_url: https://vnu.edu.vn/eng/
-          title: 1st Prize - The Award for Excellent Research
+          title: 1st Prize - The President's Research Excellence Award
           url: ''
         - certificate_url: uploads/excellent_research_undergrad.jpg
           date_end: ''
