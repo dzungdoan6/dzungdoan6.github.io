@@ -204,6 +204,15 @@ sections:
           organization_url: https://en.hcmus.edu.vn/
           title: The Chancellor's Research Excellence Award
           url: ''
+        - certificate_url: uploads/high_distinction_graduation_university.jpg
+          date_end: ''
+          date_start: '2013-08-20'
+          description: ''
+          icon: hcmus_logo
+          organization: University of Science
+          organization_url: https://en.hcmus.edu.vn/
+          title: The Chancellor’s Academic Excellence Award
+          url: ''
     design:
       columns: '2'
   # - block: collection
