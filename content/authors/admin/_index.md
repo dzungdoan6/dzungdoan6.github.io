@@ -119,7 +119,7 @@ Anh-Dzung (Dzung) Doan is a postdoctoral researcher at the [Sentient Satellites 
 
 He has a strong publication record, with 20+ papers in major AI conferences and journals, as well as one US patent pending. His contributions have been recognised with the [IEEE RA-L Best Paper Award 2021](uploads/RAL_best_paper.jpg) and the [APRS/IAPR Best Paper Award in DICTA 2019](uploads/DICTA_best_paper.jpg). Additionally, he regularly serves as a reviewer for major AI conferences and journals. 
 
-He has held research positions and collaborated with several organisations, including [Safran](https://www.safran-group.com/), [Niantic](https://nianticlabs.com/), the [Australian Centre for Robotic Vision](https://roboticvision.org/), [Temasek Labs@SUTD](https://temasek-labs.sutd.edu.sg/), the [Japan Advanced Institute of Science and Technology](http://www.jaist.ac.jp/english/), and [FIT@HCMUS](https://www.fit.hcmus.edu.vn/en/).
+He has held research positions and collaborated with several organisations, including [Safran](https://www.safran-group.com/), [SmartSat CRC](https://smartsatcrc.com/), [Niantic](https://nianticlabs.com/), the [Australian Centre for Robotic Vision](https://roboticvision.org/), [Temasek Labs@SUTD](https://temasek-labs.sutd.edu.sg/), the [Japan Advanced Institute of Science and Technology](http://www.jaist.ac.jp/english/), and [FIT@HCMUS](https://www.fit.hcmus.edu.vn/en/).
 
 <b><em>Here is my [resume (1-page)](uploads/resume.pdf) and [CV (full)](uploads/cv_full.pdf)</em></b>
 {style="text-align: justify;"}
