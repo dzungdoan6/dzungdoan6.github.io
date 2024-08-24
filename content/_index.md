@@ -172,7 +172,7 @@ sections:
           date_end: '2021-03-05'
           date_start: '2018-03-04'
           description: 'Full Ph.D. scholarship: 100% tuition fee, living allowance for 3 years, and other allowances (insurance, relocation allowance, thesis allowance, etc). <br /> 
-          The scholarship was awarded on academic merit and research potential. Extra-curricular achievements are not considered.'
+          The scholarship was awarded on academic merit and research potential. Extra-curricular achievements were not considered.'
           icon: uoa_logo
           organization: The University of Adelaide
           organization_url: https://www.adelaide.edu.au/
