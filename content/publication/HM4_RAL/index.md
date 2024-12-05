@@ -34,7 +34,7 @@ abstract: Visual place recognition needs to be robust against appearance variabi
 summary: 
     Achieve a lightweight & scalable solution for place recognition
     <br>
-    <span style="font-size:1.1em">_IEEE Robotics and Automation Letters 2021_</span>. <span style="color:red;font-size:1.1em">**(Best Paper Award)**</span>.
+    <span style="font-size:1.1em">_IEEE Robotics and Automation Letters 2021_</span>. #<span style="color:red;font-size:1.1em">**(Best Paper Award)**</span>.
 
 tags: 
 - Localisation

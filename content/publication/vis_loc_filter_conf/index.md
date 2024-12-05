@@ -37,7 +37,7 @@ abstract: A major focus of current research on place recognition is visual local
 summary: 
     Propose Monte Carlo Visual Localization, which ensures the temporal consistency of localization inference.
     <br> 
-    <span style="font-size:1.1em">In _DICTA 2019_.</span> <span style="color:red;font-size:1.1em">**(Best Paper Award)**</span>.
+    <span style="font-size:1.1em">In _DICTA 2019_.</span> #<span style="color:red;font-size:1.1em">**(Best Paper Award)**</span>.
 
 tags: 
 - Localisation
