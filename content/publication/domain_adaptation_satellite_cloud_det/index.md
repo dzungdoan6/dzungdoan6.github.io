@@ -32,9 +32,7 @@ abstract: The advent of satellite-borne machine learning hardware accelerators h
 
 # Summary. An optional shortened abstract.
 summary: 
-    Develop a novel algorithm for bandwidth-efficient domain adaptation. 
-    <br>
-    <span style="font-size:1.1em">**Our method has been implemented in Kanyini, the first satellite fully designed, built, and owned by South Australia**</span>.
+    A novel bandwidth-efficient domain adaptation method, which has been implemented in Kanyini---the first satellite fully designed, built, and owned by South Australia.
     <br>
     <span style="font-size:1.1em">_Remote Sensing 2024_</span>.
 
