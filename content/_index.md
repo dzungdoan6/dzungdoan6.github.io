@@ -291,7 +291,7 @@ sections:
         <ul class="roman">
           <li>Andrew Du - Topic<span>:</span> Edge domain adaptation</li>
           <li>Ryan Faulkner - Topic<span>:</span> Diffusion models for LiDAR</li>
-          <li>Tam Nguyen - Topic<span>:</span> Neuromorphic computing for robust fitting</li>
+          <li>Tam Nguyen - Topic<span>:</span> Neuromorphic computing for combinatorial optimization</li>
           <li>Anh Vu Nguyen - Topic<span>:</span> Active learning for streaming data</li>
         </ul>
     design:
