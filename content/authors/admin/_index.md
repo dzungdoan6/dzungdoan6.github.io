@@ -121,5 +121,5 @@ He has a strong publication record, with 20+ papers in major AI conferences and 
 
 He has held research positions and collaborated with several organisations, including [Safran](https://www.safran-group.com/), [SmartSat CRC](https://smartsatcrc.com/), [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html), [Niantic](https://nianticlabs.com/), the [Australian Centre for Robotic Vision](https://roboticvision.org/), [Temasek Labs@SUTD](https://temasek-labs.sutd.edu.sg/), the [Japan Advanced Institute of Science and Technology](http://www.jaist.ac.jp/english/), and [FIT@HCMUS](https://www.fit.hcmus.edu.vn/en/).
 
-<b><em>Here is my [resume (1-page)](uploads/resume.pdf) and [CV (full)](uploads/cv_full.pdf)</em></b>
+<b><em>Here is my [CV](uploads/cv_full.pdf)</em></b>
 {style="text-align: justify;"}
