@@ -286,13 +286,17 @@ sections:
     content:
       title: Mentorship
       text: 
-        I co-supervise following Ph.D. students
+        Current
         <br>
         <ul class="roman">
-          <li>Andrew Du - Topic<span>:</span> Edge domain adaptation</li>
-          <li>Ryan Faulkner - Topic<span>:</span> Diffusion models for LiDAR generation</li>
-          <li>Tam Nguyen - Topic<span>:</span> Neuromorphic computing for combinatorial optimization</li>
-          <li>Anh Vu Nguyen - Topic<span>:</span> Active learning for streaming data</li>
+          <li>Tam Ngoc-Bang Nguyen (Ph.D.) - Topic<span>:</span> Neuromorphic computing for combinatorial optimization.</li>
+          <li>Ryan Faulkner (Ph.D.) - Topic<span>:</span> Diffusion models for LiDAR generation.</li>
+        </ul>
+        Past
+        <br>
+        <ul class="roman">
+          <li>Andrew Du (Ph.D.) - Topic<span>:</span> Edge domain adaptation. Now Lead AI Engineer in SmartSat CRC.</li>
+          <li>Tianjiao Jiang (Master) - Topic<span>:</span> Federated learning for visual place recognition. Now Ph.D student in The University of Adelaide with a full scholarship.</li>
         </ul>
     design:
       columns: '2'
