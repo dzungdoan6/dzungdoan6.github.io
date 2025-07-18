@@ -132,7 +132,7 @@ sections:
         <br>
         Dung Anh Doan, Daniyar Turmukhambetov, Soohyun Bae
         <br>
-        US Patent Grant Number 
+        US Patent Grant Number 12243309
     design:
       columns: '2'
   - block: Accomplishments
