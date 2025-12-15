@@ -114,7 +114,7 @@ social:
 highlight_name: true
 ---
 
-Anh-Dzung (Dzung) Doan is a Research Scientist at [Axon](https://www.axon.com/), proudly contributing to the mission of "Protect Life". Before joining Axon, he has held research positions and collaborated with the [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/), [Safran](https://www.safran-group.com/), [SmartSat CRC](https://smartsatcrc.com/), [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html), [Niantic](https://nianticlabs.com/), [Temasek Labs@SUTD](https://temasek-labs.sutd.edu.sg/), the [Japan Advanced Institute of Science and Technology](http://www.jaist.ac.jp/english/), and [FIT@HCMUS](https://www.fit.hcmus.edu.vn/en/).
+Anh-Dzung (Dzung) Doan is a Research Scientist at [Axon](https://www.axon.com/ai), proudly contributing to the mission of "Protect Life". Before joining Axon, he has held research positions and collaborated with the [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/), [Safran](https://www.safran-group.com/), [SmartSat CRC](https://smartsatcrc.com/), [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html), [Niantic](https://nianticlabs.com/), [Temasek Labs@SUTD](https://temasek-labs.sutd.edu.sg/), the [Japan Advanced Institute of Science and Technology](http://www.jaist.ac.jp/english/), and [FIT@HCMUS](https://www.fit.hcmus.edu.vn/en/).
 
 He completed his Ph.D. in the School of Computer and Mathematical Sciences at the University of Adelaide. His research interests lie in the area of robotic vision, at the intersection of robotics, computer vision, and machine learning.
 
