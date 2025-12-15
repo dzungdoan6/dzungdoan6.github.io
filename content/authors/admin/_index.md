@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher 
+role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Australian Institute for Machine Learning
-    url: https://www.adelaide.edu.au/aiml/
+  - name: Axon
+    url: https://www.axon.com/ai
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests lie in the area of robotic vision, at the intersection of robotics, computer vision, and machine learning.
