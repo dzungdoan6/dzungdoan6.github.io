@@ -290,11 +290,11 @@ sections:
         <br>
         <ul class="roman">
           <li>Tam Ngoc-Bang Nguyen (Ph.D.) - Topic<span>:</span> Neuromorphic computing for combinatorial optimization.</li>
-          <li>Ryan Faulkner (Ph.D.) - Topic<span>:</span> Diffusion models for LiDAR generation.</li>
         </ul>
         Past
         <br>
         <ul class="roman">
+         <li>Ryan Faulkner (Ph.D.) - Topic<span>:</span> Diffusion models for LiDAR generation. Now robotics engineer at Telexistence</li>
           <li>Andrew Du (Ph.D.) - Topic<span>:</span> Edge domain adaptation. Now Lead AI Engineer in SmartSat CRC.</li>
           <li>Tianjiao Jiang (Master) - Topic<span>:</span> Federated learning for visual place recognition. Now Ph.D student in The University of Adelaide with a full scholarship.</li>
         </ul>
